@@ -1,6 +1,8 @@
 # Making use of Movie api and rendering all the popular movies in the UI
    This project was developed using the core features of React like Functional components, props, react-hooks, state, conditional rendering and so on..
      I am making use of movie API to fetch the list of movies and display them to the user.
+# This application was hosted on Firebase
+   https://react-movie-app-1c676.web.app
 
 
 
